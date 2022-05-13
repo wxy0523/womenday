@@ -4,3 +4,10 @@ def twoSum(nums, target):
         for j in range(i+1, len(nums)):
             if nums[i] + nums[j] == target:
                 return [i, j]
+            
+            
+            
+ print("this is the test")
+
+print('HHHHHHHH')
+       
